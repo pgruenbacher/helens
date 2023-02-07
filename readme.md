@@ -4,4 +4,4 @@
     cmake ..
     make 
 
-    ./Helens
+    ./Helens --pointa=30,30 --pointb=400,400
